@@ -9,3 +9,6 @@ firebase init
 
 ## Deploy
 firebase deploy
+
+## View
+https://funfort2018-f515e.firebaseapp.com

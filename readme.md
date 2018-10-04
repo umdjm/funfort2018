@@ -1,22 +1,12 @@
-## Tools
-install git from website
-install npm from website
-npm install -g bower grunt-cli
+# funfort
 
-# Init
-firebase login
-firebase init
-npm install
-bower install
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.16.0.
 
-# build
-grunt
+## Build & development
 
-## Deploy
-grunt serve
-firebase deploy
+Run `grunt` for building and `grunt serve` for preview.
 
-## View
-https://funfort2018-f515e.firebaseapp.com
+## Testing
 
-Run grunt for building and grunt serve for preview.
+Running `grunt test` will run the unit tests with karma.
